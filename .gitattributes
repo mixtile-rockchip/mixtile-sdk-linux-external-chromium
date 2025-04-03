@@ -1,0 +1,2 @@
+chromium-ozone-wayland_132.0.6834.83_aarch64.tar.xz filter=lfs diff=lfs merge=lfs -text
+chromium-ozone-wayland_132.0.6834.83_armhf.tar.xz filter=lfs diff=lfs merge=lfs -text
