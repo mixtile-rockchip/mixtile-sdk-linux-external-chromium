@@ -1,66 +1,27 @@
-MIT License
-
-© 2012-2016 Connor Lane Smith <cls@lubutu.com>
-© 2015 Laslo Hunhold <dev@frign.de>
-
-Permission is hereby granted, free of charge, to any person obtaining a
-copy of this software and associated documentation files (the "Software"),
-to deal in the Software without restriction, including without limitation
-the rights to use, copy, modify, merge, publish, distribute, sublicense,
-and/or sell copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
-
---------------------------------------------------------------------------
-
-The 'UnicodeData-9.0.0.txt' file is from the Unicode Character Database.
-It is available at http://www.unicode.org/Public/zipped/9.0.0/UCD.zip and
-is made available under the following license by Unicode, Inc:
-
-COPYRIGHT AND PERMISSION NOTICE
-
-Copyright © 1991-2016 Unicode, Inc. All rights reserved.
-Distributed under the Terms of Use in
-http://www.unicode.org/copyright.html.
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of the Unicode data files and any associated documentation
-(the "Data Files") or Unicode software and any associated documentation
-(the "Software") to deal in the Data Files or Software
-without restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, and/or sell copies of
-the Data Files or Software, and to permit persons to whom the Data Files
-or Software are furnished to do so, provided that
-(a) this copyright and permission notice appear with all copies
-of the Data Files or Software,
-(b) this copyright and permission notice appear in associated
-documentation, and
-(c) there is clear notice in each modified Data File or in the Software
-as well as in the documentation associated with the Data File(s) or
-Software that the data or software has been modified.
-
-THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF
-ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT OF THIRD PARTY RIGHTS.
-IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS
-NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL
-DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
-DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
-TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
-PERFORMANCE OF THE DATA FILES OR SOFTWARE.
-
-Except as contained in this notice, the name of a copyright holder
-shall not be used in advertising or otherwise to promote the sale,
-use or other dealings in these Data Files or Software without prior
-written authorization of the copyright holder.
+/*
+ * Written by Wilco Dijkstra, 1996. The following email exchange establishes the
+ * license.
+ *
+ * From: Wilco Dijkstra <Wilco.Dijkstra@ntlworld.com>
+ * Date: Fri, Jun 24, 2011 at 3:20 AM
+ * Subject: Re: sqrt routine
+ * To: Kevin Ma <kma@google.com>
+ * Hi Kevin,
+ * Thanks for asking. Those routines are public domain (originally posted to
+ * comp.sys.arm a long time ago), so you can use them freely for any purpose.
+ * Cheers,
+ * Wilco
+ *
+ * ----- Original Message -----
+ * From: "Kevin Ma" <kma@google.com>
+ * To: <Wilco.Dijkstra@ntlworld.com>
+ * Sent: Thursday, June 23, 2011 11:44 PM
+ * Subject: Fwd: sqrt routine
+ * Hi Wilco,
+ * I saw your sqrt routine from several web sites, including
+ * http://www.finesse.demon.co.uk/steven/sqrt.html.
+ * Just wonder if there's any copyright information with your Successive
+ * approximation routines, or if I can freely use it for any purpose.
+ * Thanks.
+ * Kevin
+ */
